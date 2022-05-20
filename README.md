@@ -15,18 +15,16 @@
 <h2 id="quick-start">Quick start</h2>
 
 <ul>
-  <li>Clone the repo: <code class="highlighter-rouge">git clone https://github.com/lys1995/interview_mock-up-design.git</code>.</li>
-  <li>Make sure you have <a href="https://nodejs.org/en/">Node.js</a>installed</li>
+  <li>Clone the repo: <code class="highlighter-rouge">git clone https://github.com/lys1995/interview_mock-up-design.git</code></li>
+  <li>Make sure you have <a href="https://nodejs.org/en/">Node.js</a> installed</li>
   <li>Navigate to the main directory (from terminal) where package.json is located.</li>
-  <li>Run npm install</li>
-  <li>Run npm run serve to start the local development server and start mock up page.</li>
+  <li>Run <code class="highlighter-rouge">npm install</code></li>
+  <li>Run <code class="highlighter-rouge">npm run serve</code> to start the local development server and start mock up page.</li>
 </ul>
 
 <h2 id="file-structure">File Structure</h2>
 
-<div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code>
-
-|-- interview_mock-up-design-main
+<div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code>interview_mock-up-design-main/
     |-- App.vue
     |-- main.js
     |-- router.js
@@ -85,7 +83,6 @@
         |-- StartPage.vue
         |-- components
             |-- Inputs.vue
-
 </code></pre></div></div>
 
 <h2>Inspiration</h2>
@@ -99,6 +96,6 @@
 
 <ul>
   <li><a href="https://v2.vuejs.org/v2/guide/">Vue.js</a> official guide</li>
-  <li><a href="https://www.youtube.com/channel/UCVyTG4sCw-rOvB9oHkzZD1w">argon documents</a></li>
+  <li><a href="https://www.youtube.com/channel/UCVyTG4sCw-rOvB9oHkzZD1w">Argon documents</a></li>
   <li><a href="https://v2.vuejs.org/resources/themes.html">Vue Themes</a> from Creative Tim</li>
 </ul>
