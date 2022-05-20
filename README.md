@@ -16,7 +16,7 @@
 
 <ul>
   <li>Clone the repo: <code class="highlighter-rouge">git clone https://github.com/lys1995/interview_mock-up-design.git</code>.</li>
-  <li>Make sure you have <a href="https://nodejs.org/en/">Node.js</a>installed</li>
+  <li>Make sure you have <a href="https://nodejs.org/en/">Node.js</a> installed</li>
   <li>Navigate to the main directory (from terminal) where package.json is located.</li>
   <li>Run npm install</li>
   <li>Run npm run serve to start the local development server and start mock up page.</li>
@@ -99,6 +99,6 @@
 
 <ul>
   <li><a href="https://v2.vuejs.org/v2/guide/">Vue.js</a> official guide</li>
-  <li><a href="https://www.youtube.com/channel/UCVyTG4sCw-rOvB9oHkzZD1w">argon documents</a></li>
+  <li><a href="https://www.youtube.com/channel/UCVyTG4sCw-rOvB9oHkzZD1w">Argon documents</a></li>
   <li><a href="https://v2.vuejs.org/resources/themes.html">Vue Themes</a> from Creative Tim</li>
 </ul>
