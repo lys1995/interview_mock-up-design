@@ -92,7 +92,7 @@
 
 <ul>
   <li>UI components is inspired by <a href="https://demos.creative-tim.com/vue-argon-design-system/documentation/#argon-design-system">Argon Docs</a>.</li>
-  <li>VueJS Design System is inspired by <a href="https://www.creative-tim.com/product/vue-argon-design-system?affiliate_id=116187">Creative Tim<a>.</li>
+  <li>VueJS page design is inspired by <a href="https://www.creative-tim.com/product/vue-argon-design-system?affiliate_id=116187">Creative Tim<a>.</li>
 </ul>
 
 <h2 id="useful-links">Useful Links</h2>
