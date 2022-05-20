@@ -24,7 +24,7 @@
 
 <h2 id="file-structure">File Structure</h2>
 
-<div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code>
+<div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code>argon/
 
 |-- interview_mock-up-design-main
     |-- App.vue
